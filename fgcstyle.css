@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic|Frank+Ruhl+Libre|Josefin+Sans|Libre+Baskerville|Slabo+27px');.name {
+font-family: Frank Ruhl Libre;
+text-transform: uppercase;
+
+font-size:55px;
+}
+.title{
+font-size: 30px;
+font-family: Frank Ruhl Libre;
+margin: -15px 0px 5px 20px;
+
+}
+
+
+#5color{
+background-color:gray;
+color: white;
+}
+.margin{
+margin-top: 20px;
+max-width:1000px;
+}
+
+.contact{
+margin-top: 20px;
+font-family: Slabo 27px;
+}
+.content{
+font-family: Slabo 27px;
+}
+
+
+.heading {
+text-transform: uppercase;
+font-family: Slabo 27px;
+font-weight: bold;
+}
+.info {
+font-family: Slabo 27px;
+}
+
+.statement{
+font-family: Slabo 27px;
+max-width: 920px;
+margin-bottom: 20px;}
+.topnav{
+font-family: Slabo 27px;
+font-weight: bold;
+font-size: 20px;
+margin-left: 5px;
+}
