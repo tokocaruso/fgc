@@ -1,11 +1,10 @@
-<style>
+
 
 @import url('https://fonts.googleapis.com/css?family=Didact+Gothic|Frank+Ruhl+Libre|Josefin+Sans|Libre+Baskerville|Slabo+27px');
 
 .name{
 font-family: Frank Ruhl Libre;
 text-transform: uppercase;
-
 font-size:55px;
 }
 .title{
@@ -52,4 +51,3 @@ font-weight: bold;
 font-size: 20px;
 margin-left: 20px;
 }
-</style>
